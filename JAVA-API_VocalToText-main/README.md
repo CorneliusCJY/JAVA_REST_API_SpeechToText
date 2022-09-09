@@ -1,4 +1,4 @@
-# REST API-SpeechToText
+# API-VocalToText
 Call a REST API In Java - Converting Speech to Text with AssemblyAI
 
 
